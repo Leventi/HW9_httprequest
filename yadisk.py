@@ -5,7 +5,7 @@ from pprint import pprint
 import requests
 
 URL = 'https://cloud-api.yandex.net'
-API_KEY = 'AQAAAABWIjwmAADLWzDG1ye44UbuoSrd_Blt39Y'
+API_KEY = ''
 
 class YandexDisk:
     def __init__(self, local_path):
